@@ -10,7 +10,7 @@ let proxyIP = 'ProxyIP.HK.fxxk.dedyn.io';// 小白勿动，该地址并不影响
 
 let sub = 'owo.o00o.ooo';// 避免项目被滥用，现已取消内置订阅器
 let subconverter = 'SUBAPI.fxxk.dedyn.io';// clash订阅转换后端，目前使用CM的订阅转换功能。自带虚假uuid和host订阅。
-let subconfig = "https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 let subProtocol = 'https';
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
